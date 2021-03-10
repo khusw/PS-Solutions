@@ -17,6 +17,9 @@
 4. 박트리 님의 알고리즘 공부 방법   
    : [Go to the link](https://baactree.tistory.com/52)
 
+5. 알고리즘 추천 문제 50선   
+   : [Go to the link](https://cafe.naver.com/startdevelopercareer/6?viewType=pc)
+
 * 별첨   
   : 알고리즘을 시각화해서 보여주는 유용한 사이트   
   [Algorithm Visualizer](https://algorithm-visualizer.org/dynamic-programming/knapsack-problem)
